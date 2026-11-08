@@ -1,0 +1,61 @@
+
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emory[Cc]aptures/
+/[Rr]ecordings/
+
+# Unity temporary files
+*.log
+*.tmp
+*.bak
+*.pdb
+*.mdb
+*.pidb
+*.unitypackage
+
+# Visual Studio and IDE files
+.vs/
+.gradle/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.booproj
+*.svd
+*.opendb
+*.VC.db
+*.DotSettings.user
+
+# Unity crash files
+sysinfo.txt
+mono_crash.*
+
+# Unity build artifacts
+*.apk
+*.aab
+*.obb
+*.app
+/*_BurstDebugInformation_DoNotShip/
+/*_BackUpThisFolder_ButDontShipItWithYourGame/
+
+# Generated editor files
+/[Aa]ssets/Plugins/Editor/JetBrains*
+/[Aa]ssets/_Recovery/
+/[Aa]ssets/_Recovery.meta
+/UIElementsSchema/
+
+# Unity generated caches
+/[Aa]ssets/Addressables_Temp/
+/[Aa]ssets/StreamingAssets/aa/
+/ServerData/
+.vscode/
